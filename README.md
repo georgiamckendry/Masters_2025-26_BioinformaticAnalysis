@@ -6,7 +6,7 @@
 - `02_PLDEG_CytokineOverlap_PathwayAnalysis` - Overlap of Cytokine Registry with filtered placental DEG data and pathway analysis.
 - `03_GdcTransferTool` - instructions for using the GDC transfer tool to download TCGA files.
 - `04_ChemokineCandidates_PL_TCGA` - CXCL2, CXCL12, CCL5 and CCL25 expression (TPM) in 2x placental datasets and 5x TCGA tumour tissue types.
-- `05_PLDeconvolution` - Placental DEG dataset rearrangement and single cell signature matrix construction for deconvolution analysis.
+- `05_PLDeconvolution` - Placental TPM dataset rearrangement and single cell signature matrix construction for deconvolution analysis.
 
 ## Data sources
 
